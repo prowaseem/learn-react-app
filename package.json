@@ -11,7 +11,7 @@
     "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
-    "react-addons-shallow-compare": "^15.6.2",
+    "react-addons-shallow-compare": "^15.6.3",
     "react-dom": "^16.7.0",
     "react-lowlight": "^2.0.0",
     "react-markdown": "^4.0.6",
